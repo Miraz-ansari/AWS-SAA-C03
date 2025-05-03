@@ -1,1 +1,6 @@
-
+AWS Certified Solutions - Architect Associate Course-SAA-C03
+-----------------------------------------------------------------------------------
+over 30 AWS services
+region is a cluster of data centers • Most AWS services are region-scoped
+Each region has many availability zones 
+(usually 3, min is 3, max is 6).
